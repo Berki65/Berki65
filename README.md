@@ -1,10 +1,7 @@
-title: Homework 1 - Portfolio
-date: 2024.09.05
-
+![header](https://www.th-koeln.de/mam/bilder/studium/studiengaenge/f07/mt_ba/collage_medientechnologie-bachelor2020.jpg)
 #Berkay Bentetik
 ### Student @TH Koeln (Cologne University of Applied Sciences)
 
-```
 
 Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) and study **Media Technology**.
 
@@ -13,7 +10,4 @@ Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sc
     - Photography and Videography / editing
     - Music Editing
     - 
-
-
-```
 
