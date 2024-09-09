@@ -6,9 +6,6 @@ date: 2024.09.05
 
 ```
 
-```
-
-
 Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) and study **Media Technology**.
 
 **Interests:**
@@ -16,3 +13,7 @@ Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sc
     - Photography and Videography / editing
     - Music Editing
     - 
+
+
+```
+
