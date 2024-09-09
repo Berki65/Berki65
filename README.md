@@ -9,11 +9,11 @@ _My Hometown Köln(Cologne)_
 ### Student @TH Koeln (Cologne University of Applied Sciences)
 
 
-Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) and study **Media Technology**(4th Semester).
-I am **21** years old and I live in **Cologne** **Germany**.
+Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) and study **Media Technology** (4th Semester).
+I am **21** years old and I live in **Cologne**, **Germany**.
 
  ### **📖 My Skills:**
-    - Languages: Java (Spring), Swift/UI, Python, C, Matlab, HTML/CSS/JS
+    - Languages: Java(Spring), Swift/UI, Python, C, Matlab, HTML/CSS/JS
     - DAW: Wavelab, Cubase, FL Studio, Logic Pro,
     - Affinity: Publisher2, Designer2, Photo2
     - Adobe: Premiere Pro, After Effects, Photoshop, Lightroom
@@ -25,9 +25,11 @@ I am **21** years old and I live in **Cologne** **Germany**.
     - IOS Developement with Swift/UI 
     - Music Production and Editing (Mastering, Dolby Atmos)
     - Photography and Videography editing
-    - 
-    - 
+    - iOS Reverse Engineering
+    - UI/UX for Mobile Apps 
     
 
 ### **🏗️ Recent Proejcts**
     - Korean Number Study App
+    - Spring Boot Assignment Project (Ticket Website)
+    - 
