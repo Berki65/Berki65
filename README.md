@@ -1,16 +1,16 @@
-## Hi there 👋
+title: Homework 1 - Portfolio
+date: 2024.09.05
 
-<!--
-**Berki65/Berki65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Berkay Bentetik [black]
+### Student @TH Koeln (Cologne University of Applied Sciences) [black]
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+
+Hi **Berkay** here! I am a Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/)
+
+**Interests: **
+    - IOS Developement with Swift/UI [**My first App CalcTrain**](https://apps.apple.com/us/app/calctrain/id6449193912)
+    - 
