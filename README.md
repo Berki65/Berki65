@@ -22,7 +22,7 @@ I am **21** years old and I live in **Cologne**, **Germany**.
 
 
 ### **💻 My interests:**
-    - IOS Developement with Swift/UI 
+    - iOS Developement with Swift/UI 
     - Music Production and Editing (Mastering, Dolby Atmos)
     - Photography and Videography editing
     - iOS Reverse Engineering
