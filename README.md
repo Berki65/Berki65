@@ -32,4 +32,5 @@ I am **21** years old and I live in **Cologne**, **Germany**.
 ### **🏗️ Recent Proejcts**
     - Korean Number Study App
     - Spring Boot Assignment Project (Ticket Website)
+    - Working Student AI Image generation
     - 
