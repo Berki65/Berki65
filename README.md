@@ -14,7 +14,7 @@ I am **21** years old and I live in **Cologne**, **Germany**.
 
  ### **📖 My Skills:**
     - Languages: Java(Spring), Swift/UI, Python, C, Matlab, HTML/CSS/JS
-    - DAW: Wavelab, Cubase, FL Studio, Logic Pro,
+    - DAW: Wavelab, Cubase, FL Studio, Logic Pro
     - Affinity: Publisher2, Designer2, Photo2
     - Adobe: Premiere Pro, After Effects, Photoshop, Lightroom
     - More: Davinci Resolve, Final Cut Pro, Cinema4D, Maxon, BorisFX
