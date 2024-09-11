@@ -17,7 +17,7 @@ I am **21** years old and live in **Cologne**, **Germany**.
     - DAW: Wavelab, Cubase, FL Studio, Logic Pro
     - Affinity: Publisher2, Designer2, Photo2
     - Adobe: Premiere Pro, After Effects, Photoshop, Lightroom Classic
-    - More: Davinci Resolve, Final Cut Pro, Cinema4D, Maxon, BorisFX
+    - More: Davinci Resolve, Final Cut Pro, Cinema4D, Maxon, BorisFX, Spline
     
 ### **💻 My interests:**
     - iOS Developement with Swift/UI 
