@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img alight= "center" alt="Coding" width="1000" src="https://mydesignagenda.com/wp-content/uploads/2019/12/wide_fullhd_germany-cologne-panorama.jpg">
+    <img align= "center" alt="Coding" width="1000" src="https://mydesignagenda.com/wp-content/uploads/2019/12/wide_fullhd_germany-cologne-panorama.jpg">
 </div>
 
 _My Hometown Köln(Cologne)_
@@ -9,7 +9,7 @@ _My Hometown Köln(Cologne)_
 ### Student @TH Koeln (Cologne University of Applied Sciences)
 
 
-Hi **Berkay** here! I am a undergrade Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) and study **Media Technology** (4th Semester).
+Hi **Berkay** here! I am a undergraduate Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) and study **Media Technology** (4th Semester).
 I am **21** years old and I live in **Cologne**, **Germany**.
 
  ### **📖 My Skills:**
@@ -19,8 +19,6 @@ I am **21** years old and I live in **Cologne**, **Germany**.
     - Adobe: Premiere Pro, After Effects, Photoshop, Lightroom Classic
     - More: Davinci Resolve, Final Cut Pro, Cinema4D, Maxon, BorisFX
     
-
-
 ### **💻 My interests:**
     - iOS Developement with Swift/UI 
     - Music Production and Editing (Mastering, Dolby Atmos)
@@ -28,9 +26,8 @@ I am **21** years old and I live in **Cologne**, **Germany**.
     - iOS Reverse Engineering
     - UI/UX for Mobile Apps 
     
-
-### **🏗️ Recent Proejcts**
+### **🏗️ Recent Projects**
     - Korean Number Study App
     - Spring Boot Assignment Project (Ticket Website)
     - Working Student AI Image generation
-    - 
+    
