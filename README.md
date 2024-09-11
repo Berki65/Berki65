@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img align= "center" alt="Coding" width="1000" src="https://mydesignagenda.com/wp-content/uploads/2019/12/wide_fullhd_germany-cologne-panorama.jpg">
+    <img align= "center" alt="Coding" width="1111" src="https://mydesignagenda.com/wp-content/uploads/2019/12/wide_fullhd_germany-cologne-panorama.jpg">
 </div>
 
 _My Hometown Köln(Cologne)_
