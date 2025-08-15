@@ -9,8 +9,8 @@ _My Hometown Köln(Cologne)_
 ### Student @TH Koeln (Cologne University of Applied Sciences)
 
 
-Hi **Berkay** here! I am an undergraduate Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) studying **Media Technology** (4th Semester).
-I am **21** years old and live in **Cologne**, **Germany**.
+Hi **Berkay** here! I am an undergraduate Student at the [**University of Applied Sciences in Cologne** ](https://www.th-koeln.de/en/) studying **Media Technology** (7th Semester).
+I am **22** years old and live in **Cologne**, **Germany**.
 
  ### **📖 My Skills:**
     - Languages: Java(Spring), Swift/UI, Python, C, Matlab, HTML/CSS/JS
