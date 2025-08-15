@@ -4,7 +4,7 @@
 
 _My Hometown Köln(Cologne)_
 
-# Berkay Bentetik
+# Berkay 
 
 ### Student @TH Koeln (Cologne University of Applied Sciences)
 
